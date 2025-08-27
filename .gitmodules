@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Hahahahackathoners/ai-hr-backend
+[submodule "ml"]
+	path = ml
+	url = https://github.com/Hahahahackathoners/ai-hr-ml
+[submodule "ui"]
+	path = ui
+	url = https://github.com/Hahahahackathoners/ai-hr-ui

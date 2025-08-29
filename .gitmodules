@@ -7,3 +7,9 @@
 [submodule "ui"]
 	path = ui
 	url = https://github.com/Hahahahackathoners/ai-hr-ui
+[submodule "offline-preprocessing"]
+	path = offline-preprocessing
+	url = https://github.com/Hahahahackathoners/ai-hr-offline-preprocessing
+[submodule "online-interviewer"]
+	path = online-interviewer
+	url = https://github.com/Hahahahackathoners/ai-hr-online-interviewer
